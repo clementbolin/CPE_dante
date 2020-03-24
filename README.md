@@ -2,7 +2,7 @@
 The objective of the project is to be able to generate a maze and to be able to solve it of type:
 
 X: the walls
-*: cell available
+     *: cell available
 
 For start generator:
 - make
